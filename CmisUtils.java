@@ -1,4 +1,5 @@
 package com.bct.dms.util;
+package com.bct.dms.util;
 
 import java.io.BufferedReader;
 import java.io.File;
